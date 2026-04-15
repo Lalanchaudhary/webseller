@@ -65,5 +65,5 @@ if (imagePopup) {
 }
 
 window.addEventListener('load', () => {
-  setTimeout(openImagePopup, 1000);
+  setTimeout(openImagePopup, 100);
 });
